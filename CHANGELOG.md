@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 (unreleased)
+## 0.1.0 (2026-10-27)
 
 First standalone release, extracted from the `lean-completion` research project.
 
