@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Lean build output and verification results
+.lake/
+parser_verification/
